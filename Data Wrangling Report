@@ -1,0 +1,61 @@
+Project Title: Data Wrangling for Property Tax Dataset
+
+Project Description:
+
+The goal of this project is to clean, transform and achieve data consistency, accuracy and usability for further analysis on the property tax dataset.
+
+Objective:
+
+•	Handle missing values effectively.
+
+•	Remove duplicate records.
+
+•	Encode categorical variables for machine learning models.
+
+•	Rename columns for better readability and consistency.
+
+Dataset:
+
+•	Name: Property Tax Dataset
+
+•	Format: CSV
+
+•	Attributes: Contains numerical and categorical variables related to property tax records.
+
+Methodology:
+
+1.	Handling Missing Data
+
+o	Numeric features: Replaced missing values with the median.
+
+o	Categorical features: Filled missing values with the mode.
+
+2.	Removing Duplicates
+
+o	Identified and removed duplicate rows.
+
+3.	Encoding Categorical Variables
+
+o	Used Label Encoding to convert categorical values into numerical format.
+
+4.	Column Name Standardization
+
+o	Removed special characters and converted column names to lowercase.
+
+Tools and Technologies:
+
+•	Python (for scripting)
+
+•	Pandas (data manipulation)
+
+•	NumPy (handling numerical operations)
+
+•	Scikit-learn (Label Encoding)
+
+Deliverables:
+
+•	Cleaned and structured dataset.
+
+•	Python script for data wrangling.
+
+•	Summary of modifications and transformations applied.
