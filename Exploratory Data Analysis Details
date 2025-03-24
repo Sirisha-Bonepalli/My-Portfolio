@@ -1,0 +1,55 @@
+Project Title: Exploratory Data Analysis of Property Tax Dataset
+
+Project Description:
+
+The goal of this project was to analyze a dataset regarding property tax information in order to find patterns, trends, and inconsistencies in the data. It involves cleaning of data, visualization and statistical summaries to aid further predictive modeling or decision making.
+
+Objective:
+
+•	Understand the structure of the dataset.
+
+•	Identify missing values and data quality issues.
+
+•	Perform statistical analysis and visualization of key variables.
+
+•	Detect correlations and potential outliers.
+
+•	Summarize findings for further use in predictive modeling.
+
+Dataset:
+
+•	Name: Property Tax Dataset
+
+•	Format: CSV
+
+•	Content: Includes numerical and categorical attributes related to property tax.
+
+Methodology:
+
+1.	Load and inspect the dataset.
+
+2.	Check for missing values and handle them appropriately.
+
+3.	Perform summary statistics and visualization of numerical data.
+
+4.	Analyze correlations and outliers.
+
+5.	Visualizing the categorical variable distributions.
+
+Tools and Technologies:
+
+•	Python (for scripting)
+
+•	Pandas (data manipulation)
+
+•	Matplotlib & Seaborn (visualization)
+
+•	NumPy (numerical operations)
+
+Deliverables:
+
+•	Python script for EDA.
+
+•	Statistical summary and visualizations.
+
+•	Key insights from the dataset.
