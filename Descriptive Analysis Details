@@ -1,0 +1,49 @@
+Project Title: Descriptive Analysis of Property Tax Dataset
+
+Project Description:
+
+The purpose of this project is to explore the characteristics of the property tax dataset by examining its statistical summaries, distributions, and uncovering the important trends and patterns.
+
+Objective:
+
+•	Provide a comprehensive statistical summary of numerical and categorical variables.
+
+•	Identify missing values and unique entries in categorical features.
+
+•	Analyze data distribution and detect outliers.
+
+Dataset:
+
+•	Name: Property Tax Dataset
+
+•	Format: CSV
+
+•	Content: Contains numerical and categorical attributes related to property tax.
+
+Methodology:
+
+1.	Dataset Overview - Structure, data types, and missing values.
+
+2.	Descriptive Statistics - Mean, median, standard deviation, and quartiles of numerical data.
+
+3.	Categorical Variable Analysis - Unique values and distributions.
+
+4.	Visualization - Histogram plots for distributions and boxplots for outlier detection.
+
+Tools and Technologies:
+
+•	Python (for scripting)
+
+•	Pandas (data manipulation)
+
+•	Seaborn & Matplotlib (visualization)
+
+•	NumPy (numerical operations)
+
+Deliverables:
+
+•	Python script for descriptive analysis.
+
+•	Summary statistics and visualizations.
+
+•	Key insights on numerical and categorical attributes.
