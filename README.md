@@ -1,6 +1,8 @@
 # My-Portfolio
 
-# I. Project Title: Exploratory Data Analysis of Property Tax Dataset
+# Exploratory Data Analysis
+
+Project Title: Exploratory Data Analysis of Property Tax Dataset
 
 Project Description:
 
@@ -56,7 +58,7 @@ Deliverables:
 
 •	Key insights from the dataset.
 
-
+# Descriptive Analysis
 
 II. Project Title: Descriptive Analysis of Property Tax Dataset
 
@@ -109,7 +111,7 @@ Deliverables:
 •	Key insights on numerical and categorical attributes.
 
 
-
+# Data Warngling
 
 III. Project Title: Data Wrangling for Property Tax Dataset
 
@@ -174,6 +176,7 @@ Deliverables:
 •	Summary of modifications and transformations applied.
 
 
+# AWS
 
 IV. AWS Project
 
