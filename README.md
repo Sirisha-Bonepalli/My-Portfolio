@@ -1,6 +1,6 @@
 # My-Portfolio
 
-I. Project Title: Exploratory Data Analysis of Property Tax Dataset
+# I. Project Title: Exploratory Data Analysis of Property Tax Dataset
 
 Project Description:
 
