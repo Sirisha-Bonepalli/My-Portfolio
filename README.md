@@ -1,5 +1,176 @@
 # My-Portfolio
 
+I. Project Title: Exploratory Data Analysis of Property Tax Dataset
+
+Project Description:
+
+The goal of this project was to analyze a dataset regarding property tax information in order to find patterns, trends, and inconsistencies in the data. It involves cleaning of data, visualization and statistical summaries to aid further predictive modeling or decision making.
+
+Objective:
+
+•	Understand the structure of the dataset.
+
+•	Identify missing values and data quality issues.
+
+•	Perform statistical analysis and visualization of key variables.
+
+•	Detect correlations and potential outliers.
+
+•	Summarize findings for further use in predictive modeling.
+
+Dataset:
+
+•	Name: Property Tax Dataset
+
+•	Format: CSV
+
+•	Content: Includes numerical and categorical attributes related to property tax.
+
+Methodology:
+
+1.	Load and inspect the dataset.
+
+2.	Check for missing values and handle them appropriately.
+
+3.	Perform summary statistics and visualization of numerical data.
+
+4.	Analyze correlations and outliers.
+
+5.	Visualizing the categorical variable distributions.
+
+Tools and Technologies:
+
+•	Python (for scripting)
+
+•	Pandas (data manipulation)
+
+•	Matplotlib & Seaborn (visualization)
+
+•	NumPy (numerical operations)
+
+Deliverables:
+
+•	Python script for EDA.
+
+•	Statistical summary and visualizations.
+
+•	Key insights from the dataset.
+
+II. Project Title: Descriptive Analysis of Property Tax Dataset
+
+Project Description:
+
+The purpose of this project is to explore the characteristics of the property tax dataset by examining its statistical summaries, distributions, and uncovering the important trends and patterns.
+
+Objective:
+
+•	Provide a comprehensive statistical summary of numerical and categorical variables.
+
+•	Identify missing values and unique entries in categorical features.
+
+•	Analyze data distribution and detect outliers.
+
+Dataset:
+
+•	Name: Property Tax Dataset
+
+•	Format: CSV
+
+•	Content: Contains numerical and categorical attributes related to property tax.
+
+Methodology:
+
+1.	Dataset Overview - Structure, data types, and missing values.
+
+2.	Descriptive Statistics - Mean, median, standard deviation, and quartiles of numerical data.
+
+3.	Categorical Variable Analysis - Unique values and distributions.
+
+4.	Visualization - Histogram plots for distributions and boxplots for outlier detection.
+
+Tools and Technologies:
+
+•	Python (for scripting)
+
+•	Pandas (data manipulation)
+
+•	Seaborn & Matplotlib (visualization)
+
+•	NumPy (numerical operations)
+
+Deliverables:
+
+•	Python script for descriptive analysis.
+
+•	Summary statistics and visualizations.
+
+•	Key insights on numerical and categorical attributes.
+
+
+III. Project Title: Data Wrangling for Property Tax Dataset
+
+Project Description:
+
+The goal of this project is to clean, transform and achieve data consistency, accuracy and usability for further analysis on the property tax dataset.
+
+Objective:
+
+•	Handle missing values effectively.
+
+•	Remove duplicate records.
+
+•	Encode categorical variables for machine learning models.
+
+•	Rename columns for better readability and consistency.
+
+Dataset:
+
+•	Name: Property Tax Dataset
+
+•	Format: CSV
+
+•	Attributes: Contains numerical and categorical variables related to property tax records.
+
+Methodology:
+
+1.	Handling Missing Data
+
+o	Numeric features: Replaced missing values with the median.
+
+o	Categorical features: Filled missing values with the mode.
+
+2.	Removing Duplicates
+
+o	Identified and removed duplicate rows.
+
+3.	Encoding Categorical Variables
+
+o	Used Label Encoding to convert categorical values into numerical format.
+
+4.	Column Name Standardization
+
+o	Removed special characters and converted column names to lowercase.
+
+Tools and Technologies:
+
+•	Python (for scripting)
+
+•	Pandas (data manipulation)
+
+•	NumPy (handling numerical operations)
+
+•	Scikit-learn (Label Encoding)
+
+Deliverables:
+
+•	Cleaned and structured dataset.
+
+•	Python script for data wrangling.
+
+•	Summary of modifications and transformations applied.
+
+IV. AWS Project
+
 Data Analytic Platform for the City of Vancouver:
 
 The pictures below show the DAP design for the City of Vancouver property tax department.
