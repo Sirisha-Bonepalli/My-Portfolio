@@ -56,6 +56,8 @@ Deliverables:
 
 •	Key insights from the dataset.
 
+
+
 II. Project Title: Descriptive Analysis of Property Tax Dataset
 
 Project Description:
@@ -105,6 +107,8 @@ Deliverables:
 •	Summary statistics and visualizations.
 
 •	Key insights on numerical and categorical attributes.
+
+
 
 
 III. Project Title: Data Wrangling for Property Tax Dataset
@@ -168,6 +172,8 @@ Deliverables:
 •	Python script for data wrangling.
 
 •	Summary of modifications and transformations applied.
+
+
 
 IV. AWS Project
 
